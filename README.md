@@ -1,6 +1,6 @@
 # 🧬 3D Structural Bioinformatics & Sequence-to-Structure Pipeline
 
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/badge/badge.svg)](https://nbviewer.org/github/stephfn/protein-structure-folding-pipeline/blob/main/01_sequence_to_3d_structure.ipynb)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/jupyter-trademark/master/v2/badge/badge.svg)](https://nbviewer.org/github/stephfn/protein-structure-folding-pipeline/blob/main/01_sequence_to_3d_structure.ipynb)
 [![Python 3.10](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
 [![BioPython](https://img.shields.io/badge/BioPython-1.81+-green.svg)](https://biopython.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
